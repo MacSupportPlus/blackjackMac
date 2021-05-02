@@ -1,0 +1,12 @@
+body{
+    height: 1000px;
+    width: 100vw;
+    padding: 150px
+}
+
+#cardBackground{
+    height: 400px;
+    background-color: rgb(12, 197, 73);
+    border-color: aquamarine;
+    border-width: 30px;
+}
