@@ -5,7 +5,8 @@ body{
 }
 
 #cardBackground{
-    height: 400px;
+    height: 550px;
+    width: 100vw;
     background-color: rgb(12, 197, 73);
     border-color: aquamarine;
     border-width: 30px;
